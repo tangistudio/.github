@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.webp">
-    <img src="assets/banner-light.webp" width="820" alt="Useful everyday tools by a husband and a wife, turning daily tasks into handy little things. Sepi, Nima and their baby sit on three big tangerines.">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.webp">
+    <img src="assets/hero-light.webp" width="820" alt="Useful everyday tools by a husband and a wife, turning daily tasks into handy little things. Sepi, Nima and their baby sit on three big tangerines.">
   </picture>
 </p>
 
