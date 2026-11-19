@@ -5,13 +5,6 @@
   </picture>
 </p>
 
-<p align="center">
-  Hi, we're Sepi and Nima.<br>
-  We make small tools for everyday things at our kitchen table in Canada.
-</p>
-
-<br>
-
 ## Tools
 
 <table>
