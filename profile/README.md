@@ -16,27 +16,32 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <img src="assets/voice-icon.webp" width="56" alt=""><br>
-      <h3>Tangi Voice</h3>
-      Never re-record yourself again.<br>
-      Paste a script and hear it in your own voice.<br><br>
-      <sub>macOS · Coming soon</sub>
-    </td>
-    <td width="50%" valign="top">
-      <img src="assets/tweak-icon.webp" width="56" alt=""><br>
-      <h3><a href="https://github.com/tangistudio/TangiTweak">Tangi Tweak</a></h3>
+    <td valign="top"><img src="assets/tweak-icon.webp" width="56" alt=""></td>
+    <td valign="top">
+      <b><a href="https://github.com/tangistudio/TangiTweak">Tangi Tweak</a></b> &nbsp;<sub>Alpha · Chrome and Firefox</sub><br>
       Make any website work your way.<br>
-      Block, redirect or rewrite what a page loads.<br><br>
-      <sub>Chrome and Firefox · Alpha · <a href="https://github.com/tangistudio/TangiTweak/releases">Download</a></sub>
+      Block, redirect or rewrite what a page loads with a small script.<br>
+      <sub><a href="https://github.com/tangistudio/TangiTweak/releases">Download</a> · <a href="https://github.com/tangistudio/TangiTweak">Source</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="assets/voice-icon.webp" width="56" alt=""></td>
+    <td valign="top">
+      <b>Tangi Voice</b> &nbsp;<sub>Coming soon · macOS</sub><br>
+      Never re-record yourself again.<br>
+      Paste a script and hear it in your own voice.<br>
+      <sub>Not public yet</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" align="center"><img src="assets/tangi.svg" width="40" alt=""></td>
+    <td valign="top">
+      <b>Next on the kitchen table</b><br>
+      More small tools are on the way.<br>
+      Follow us here to see them first.
     </td>
   </tr>
 </table>
-
-### Next on the kitchen table
-
-More small tools are on the way.<br>
-Follow us here to see them first.
 
 <br>
 
@@ -44,16 +49,10 @@ Follow us here to see them first.
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <img src="assets/sepi.png" width="96" alt="Sepi"><br>
-      <b>Sepi</b> · Designer<br>
-      <sub>Makes it feel right.</sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="assets/nima.png" width="96" alt="Nima"><br>
-      <b>Nima</b> · Engineer<br>
-      <sub>Makes it actually work.</sub>
-    </td>
+    <td valign="top"><img src="assets/sepi.png" width="56" alt="Sepi"></td>
+    <td valign="top"><b>Sepi</b> &nbsp;<sub>Designer</sub><br>Makes it feel right.</td>
+    <td valign="top"><img src="assets/nima.png" width="56" alt="Nima"></td>
+    <td valign="top"><b><a href="https://github.com/nimatrueway">Nima</a></b> &nbsp;<sub>Engineer</sub><br>Makes it actually work.</td>
   </tr>
 </table>
 
