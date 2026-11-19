@@ -14,14 +14,15 @@
 
 ## Tools
 
-<table width="100%">
+<table>
   <tr>
-    <td valign="top" width="72"><img src="assets/tweak-icon.webp" width="56" alt=""></td>
-    <td valign="top" width="100%">
+    <td valign="top"><img src="assets/tweak-icon.webp" width="56" alt=""></td>
+    <td valign="top">
       <b><a href="https://github.com/tangistudio/TangiTweak">Tangi Tweak</a></b> &nbsp;<sub>Alpha · Chrome and Firefox</sub><br>
       Make any website work your way.<br>
       Block, redirect or rewrite what a page loads with a small script.<br>
-      <sub><a href="https://github.com/tangistudio/TangiTweak/releases">Download</a> · <a href="https://github.com/tangistudio/TangiTweak">Source</a></sub>
+      <sub><a href="https://github.com/tangistudio/TangiTweak/releases">Download</a> · <a href="https://github.com/tangistudio/TangiTweak">Source</a></sub><br>
+      <img src="assets/spacer.png" width="2000" height="1" alt="">
     </td>
   </tr>
   <tr>
