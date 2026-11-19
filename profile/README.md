@@ -14,10 +14,10 @@
 
 ## Tools
 
-<table>
+<table width="100%">
   <tr>
-    <td valign="top"><img src="assets/tweak-icon.webp" width="56" alt=""></td>
-    <td valign="top">
+    <td valign="top" width="72"><img src="assets/tweak-icon.webp" width="56" alt=""></td>
+    <td valign="top" width="100%">
       <b><a href="https://github.com/tangistudio/TangiTweak">Tangi Tweak</a></b> &nbsp;<sub>Alpha · Chrome and Firefox</sub><br>
       Make any website work your way.<br>
       Block, redirect or rewrite what a page loads with a small script.<br>
@@ -44,17 +44,6 @@
 </table>
 
 <br>
-
-## About us
-
-<table>
-  <tr>
-    <td valign="top"><img src="assets/sepi.png" width="56" alt="Sepi"></td>
-    <td valign="top"><b>Sepi</b> &nbsp;<sub>Designer</sub><br>Makes it feel right.</td>
-    <td valign="top"><img src="assets/nima.png" width="56" alt="Nima"></td>
-    <td valign="top"><b><a href="https://github.com/nimatrueway">Nima</a></b> &nbsp;<sub>Engineer</sub><br>Makes it actually work.</td>
-  </tr>
-</table>
 
 ## Open source
 
