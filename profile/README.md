@@ -16,17 +16,17 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="assets/tweak-icon.webp" width="56" alt=""></td>
+    <td valign="top" width="72"><img src="assets/tweak-icon.webp" width="56" alt=""></td>
     <td valign="top">
+      <img align="left" src="assets/spacer.png" width="2000" height="1" alt="">
       <b><a href="https://github.com/tangistudio/TangiTweak">Tangi Tweak</a></b> &nbsp;<sub>Alpha · Chrome and Firefox</sub><br>
       Make any website work your way.<br>
       Block, redirect or rewrite what a page loads with a small script.<br>
-      <sub><a href="https://github.com/tangistudio/TangiTweak/releases">Download</a> · <a href="https://github.com/tangistudio/TangiTweak">Source</a></sub><br>
-      <img src="assets/spacer.png" width="2000" height="1" alt="">
+      <sub><a href="https://github.com/tangistudio/TangiTweak/releases">Download</a> · <a href="https://github.com/tangistudio/TangiTweak">Source</a></sub>
     </td>
   </tr>
   <tr>
-    <td valign="top"><img src="assets/voice-icon.webp" width="56" alt=""></td>
+    <td valign="top" width="72"><img src="assets/voice-icon.webp" width="56" alt=""></td>
     <td valign="top">
       <b>Tangi Voice</b> &nbsp;<sub>Coming soon · macOS</sub><br>
       Never re-record yourself again.<br>
@@ -35,7 +35,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="top" align="center"><img src="assets/tangi.svg" width="40" alt=""></td>
+    <td valign="top" align="center" width="72"><img src="assets/tangi.svg" width="40" alt=""></td>
     <td valign="top">
       <b>Next on the kitchen table</b><br>
       More small tools are on the way.<br>
